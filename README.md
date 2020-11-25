@@ -1,5 +1,5 @@
 # dns-lookup
-DNS lookup is the process of translating and finding the IP of a website
+DNS lookup is the process of translating and finding the IP,server,and information server of a website
     
 # How to install
 
